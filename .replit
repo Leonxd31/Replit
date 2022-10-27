@@ -1,4 +1,4 @@
-run = "Test"
+run = "Main."
 
 [nix]
 channel = "stable-21_11"
